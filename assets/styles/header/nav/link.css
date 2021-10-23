@@ -1,0 +1,8 @@
+.nav__link{
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 18px;
+    font-size: 18px;
+    color: rgb(67, 67, 67);
+    font-family: 'Lato', sans-serif;
+}

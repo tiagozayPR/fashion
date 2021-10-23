@@ -1,0 +1,9 @@
+.banner{
+    margin: 0 auto;
+    width: 89%;
+    height: 470px;
+    background-image: url('../../img/moda8.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

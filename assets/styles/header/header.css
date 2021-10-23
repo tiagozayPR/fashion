@@ -1,0 +1,12 @@
+.container{
+    width: 89%;
+    background-color: black;
+    margin: 0 auto;
+}
+.conteudo__header{
+    display: flex;
+    justify-content: space-between;
+    width: 91%;
+    margin: 0 auto;
+    padding: 10px 0;
+}

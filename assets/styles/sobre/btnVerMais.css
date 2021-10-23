@@ -1,0 +1,10 @@
+.sobre__verMais{
+    margin-top: 20px;
+    border: 2px rgb(82, 82, 82) solid;
+    text-align: center;
+    padding: 10px 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    color:  rgb(82, 82, 82);
+}

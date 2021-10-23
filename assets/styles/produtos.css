@@ -1,0 +1,7 @@
+.produtos{
+    display: flex;
+    justify-content: space-between;
+    width: 947px;
+    margin: 100px auto;
+    
+}

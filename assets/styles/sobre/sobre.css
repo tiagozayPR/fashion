@@ -1,0 +1,10 @@
+.sobre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 70px;
+    width: 89%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
