@@ -1,0 +1,23 @@
+.slogan__titulo{
+    font-size: 43px;
+    text-transform: uppercase;
+    width: 750px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+@media(max-width: 1000px){
+    .slogan__titulo{
+        width: auto;
+    }
+}
+@media(max-width: 500px){
+    .slogan__titulo{
+        font-size: 35px;
+    }
+}
+@media(max-width: 400px){
+    .slogan__titulo{
+        font-size: 30px;
+    }
+}

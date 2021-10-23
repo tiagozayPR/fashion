@@ -1,0 +1,22 @@
+.slogan{
+    width: 85%;
+    margin: 0 auto;
+    height: 600px;
+    background-image: url('../../img/moda17.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 30px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+@media(max-width: 1000px){
+    .slogan{
+       padding: 0 10px;
+       text-align: center;
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+    }
+}

@@ -1,7 +1,18 @@
 .produtos{
     display: flex;
     justify-content: space-between;
-    width: 947px;
-    margin: 100px auto;
-    
+    width: 940px;
+    margin: 100px auto;  
+}
+@media(max-width: 1000px){
+    .produtos{
+        width: 400px;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media(max-width: 420px){
+    .produtos{
+        width: 300px;
+    }
 }

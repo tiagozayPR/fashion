@@ -3,7 +3,14 @@
     width: 89%;
     height: 470px;
     background-image: url('../../img/moda8.jpg');
-    background-position: center;
+    background-position: fixed;
     background-repeat: no-repeat;
     background-size: 100%;
+}
+
+@media(max-width: 600px){
+    .banner{
+        width: 100%;
+    }
+    
 }

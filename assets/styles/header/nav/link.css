@@ -6,3 +6,10 @@
     color: rgb(67, 67, 67);
     font-family: 'Lato', sans-serif;
 }
+
+@media(max-width: 500px){
+    .nav__link{
+        font-size: 15px;
+    }
+    
+}

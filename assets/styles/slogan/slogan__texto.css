@@ -1,0 +1,22 @@
+.slogan__texto{
+    width: 600px;
+    font-size: 20px;
+    color: rgb(196, 196, 196);
+    font-family: 'Lato', sans-serif;
+    margin-top: 50px;
+    line-height: 25px;
+    font-style: italic;
+}
+.slogan__texto::after{
+    content: '"';
+}
+.slogan__texto::before{
+    content: '"';
+}
+
+@media(max-width: 1000px){
+    .slogan__texto{
+        width: auto;
+
+    }
+}
